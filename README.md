@@ -29,6 +29,4 @@ Du kannst mitmachen, indem du Issues erstellst, kommentierst oder Pull Requests 
 
 Das Projekt ist fertig, wenn alle Aufgaben erledigt sind.
 
-## Kontakt
 
-Bei Fragen, melde dich einfach!
