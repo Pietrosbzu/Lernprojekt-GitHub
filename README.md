@@ -19,7 +19,7 @@ Wir lernen, wie man GitHub nutzt und wie die Zusammenarbeit in einem Projekt fun
 
 ## Kanban-Board
 
-[Hier ist der Link zum Kanban-Board]
+https://github.com/users/Pietrosbzu/projects/1
 
 ## Mitmachen
 
